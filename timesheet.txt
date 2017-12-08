@@ -1,0 +1,38 @@
+Timesheet
+
+11/13 : 5 hours– installed and researched how to use pyaudio and aubio modules.
+11/15 : 1 hour– planning and drawing storyboard.
+11/16 : 5 hours– tested and demoed aubio and pyaudio– beat detection and pitch detection.
+
+• 11/17 : TP0 meeting & Tech Demo
+TIME : 11 hours
+
+11/18 : 3 hours– drawing simple visuals (circles and rings) and started working on audio (beat, pitch and onset detection).
+11/19 : 6 hours– worked on threading music to visuals.
+11/20 : 3 hours– threading + worked on the accuracy of the visuals’ response to the beats and pitch.
+
+• 11/21 : TP 1 meeting– Decided to add more complicated visuals and added switching themes to the design proposal.
+TIME : 12 hours
+
+11/22 : 1 hour– Added waves (concentric circles, and dots emanating from the center.
+11/23 :	2 hours– Added a FileMenu and Play/Pause Button (button not working perfectly).
+11/24 : 6 hours– Added physics-y visuals (spirals and changing colors according to onsets)
+11/26 :	10 hours– Added an equalizer + tried to demo real-time visualization (unsuccessful)
+11/27 :	4 hours– Attempted adding a different canvas to switch between themes (unsuccessful).
+11/28 :	3 hours– Added Metadata + tried fixing Pause button + added mp3 to wav conversion.
+11/29 :	4 hours– Worked on updating design docs + Attempted to manually compute Fourier transformations to do beat detection 
+
+• 11/29 : TP 2 meeting– Decided to switch to simply music visualizer instead of audio visualizer.
+TIME : 30 hours
+
+11/30 : 6 hours– Continued working on computing Fourier transformations to do beat detection + Added a Splash Screen.
+12/1 : 2 hours– fixed Play/Pause button.
+12/2 : 6 hours– Added a switch theme button + Select Song button.
+12/3 : 8 hours– Refined the visuals and their response times to the audio + experimented with fft computations.  
+12/4 : 3 hours– fixed FileMenu + allows the program to run without a default file.
+12/5 : 3 hours– Worked on design docs + video
+12/6 : 2 hours– Organized files + backed up files + Final check on codebase. Made one submission.
+12/7 : Submitted TP3 deliverables.
+TIME :	30 hours
+
+TOTAL TIME : 83 hours
